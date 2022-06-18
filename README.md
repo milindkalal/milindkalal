@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milind Kalal</h1>
 <h3 align="center">A Web Developer passionate about creating interactive applications and experiences on the web.</h3>
-<img alt="Coding" src=“https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=400x300”>
 
 
 - 🌱 I’m currently learning **MERN Stack**
