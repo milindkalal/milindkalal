@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I run a MEME page on insta**
 
-<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-7b300587-71e5-4c5c-8fb2-b87b20096ff9.jpg" height="100" width="100" > 
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-7b300587-71e5-4c5c-8fb2-b87b20096ff9.jpg" height="500" width="500" > 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
